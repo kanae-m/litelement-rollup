@@ -29,8 +29,7 @@ const copyConfig = {
   ],
 };
 
-// The main JavaScript bundle for modern browsers that support
-// JavaScript modules and other ES2015+ features.
+// JavaScriptモジュールおよびその他のES2015 +機能をサポートする最新のブラウザー用のメインJavaScriptバンドル
 const config = {
   input: 'src/components/shop-app.js',
   output: {
